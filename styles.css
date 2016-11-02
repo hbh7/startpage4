@@ -59,19 +59,19 @@ a {
     font-size: 18px;
     font-weight: 400
 }
-.reddit h1 {
+.orange h1 {
     background: #ff4500
 }
-.redditmod h1 {
+.green h1 {
     background: #47d15f
 }
-.social h1 {
+.blue h1 {
     background: #1da1f2
 }
-.fun h1 {
+.red h1 {
     background: #cd201f
 }
-.admin h1 {
+.orange h1 {
     background: #ff9800
 }
 .textbox {
