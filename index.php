@@ -11,7 +11,7 @@
    <div id="time" type="text">Time</div>
    <div id="date" type="text"></div>
 
-   <form action="http://www.google.com/search"><input class="textbox" name="q" placeholder="Search" onenter="send()" autocomplete="on" maxlength="60" autofocus></form>
+   <form action="https://www.google.com/search"><input class="textbox" name="q" placeholder="Search" onenter="send()" autocomplete="on" maxlength="60" autofocus></form>
 </div>
 <div class="section">
    <div class="list red">

@@ -94,7 +94,7 @@ function keyHandle(event){
 function getWeather(){
 
   var APPID = "63ea39292d2682b4b8db86a20e1a69dd";
-  var url = "http://api.openweathermap.org/data/2.5/weather?" +
+  var url = "https://api.openweathermap.org/data/2.5/weather?" +
     "id=" + 4794457 +
     ",us&APPID=" + APPID;
 
