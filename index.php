@@ -55,7 +55,7 @@
       <ul>
         <li><a href="https://www.dominos.com/en/">Domino's Pizza</a></li>
         <li><a href="https://www.dropbox.com/s/8xbpp2d0b9x8mql/wish%20list.txt">My Wish List</a></li>
-        <li><a href="https://github.com/hbh7/startpage">This Startpage on Github</a></li>
+        <li><a href="https://github.com/hbh7/startpage4">This Startpage on Github</a></li>
         <li><a href="?run=true" ;="">Refresh</a></li>
         <li><a href=""></a></li>
         <li><a href=""></a></li>
@@ -95,7 +95,7 @@
         <li><a class="tab tab3" href="https://amazon.com/">Amazon</a></li>
         <li><a class="tab tab3" href="https://ebay.com/">eBay</a></li>
         <li><a class="tab tab3" href="http://youtube.com">Youtube</a></li>
-        <li><a class="tab tab3" href="http://vessel.com">Vessel</a></li>
+        <li><a class="tab tab3" href="http://netflix.com">Netflix</a></li>
       </ul>
    </div>
    <div class="list red">
