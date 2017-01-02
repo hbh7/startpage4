@@ -85,7 +85,7 @@ function dateInfo(){
 
   ampm = (date.getHours() >= 12)? ' PM' : ' AM';
 
-  timeDisplay.innerHTML = hour + ":" + minute + ":" + second;
+  timeDisplay.innerHTML = hour + ":" + minute + ":" + second + ampm;
   dateDisplay.innerHTML = days[day] + ", " + months[month] + " " + numberDate + ", " + year;
   setTimeout("dateInfo()",1000);
 }
