@@ -78,6 +78,10 @@ function dateInfo(){
   else {
     second = date.getSeconds();
   }
+  
+   if(hour > 12)
+    hour = hour - 12;
+  }
 
   ampm = (date.getHours() >= 12)? ' PM' : ' AM';
 
